@@ -1,6 +1,6 @@
-## Expense Tracker
-
 # A React App using Context-API and Hooks
+
+## Expense Tracker
 
 Keep track of income and expenses. Add and remove items
 
